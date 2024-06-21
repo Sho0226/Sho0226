@@ -1,4 +1,5 @@
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sho0226&theme=2077)
+<img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xxxxxxxxxx&layout=compact&count_private=true&show_icons=true&theme=tokyonight" />
 
 <!--
 **Sho0226/Sho0226** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
