@@ -47,7 +47,7 @@
 
 ---
 <img
-  src="https://github.com/sho0226/README/blob/main/images/stat.svg"
+  src="https://github.com/Sho0226/Sho0226/images/stat.svg"
   alt="Alternative Text"
 />
 Example:
