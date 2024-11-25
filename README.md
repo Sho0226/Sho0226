@@ -1,5 +1,3 @@
-![Header Banner](https://your-image-url.com)
-
 <h1 align="center">Hi 👋, I'm Sho</h1>
 <h3 align="center">🌟 A passionate Fullstack Developer from Shizuoka 🌟</h3>
 
