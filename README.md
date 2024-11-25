@@ -13,14 +13,6 @@
 
 ---
 
-## 🚀 About Me
-
-- 🔭 I’m currently working on **[Your Project Name](https://github.com/Sho0226/your-project)**  
-- 🌱 I’m currently learning **React, Next.js, and AWS**  
-- 💬 Ask me about **Fullstack Development, Docker, and PostgreSQL**  
-- 📫 How to reach me: **[sho@example.com](mailto:sho@example.com)**  
-
----
 
 ## 🌐 Connect with Me
 
@@ -61,29 +53,4 @@
 
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Sho0226&theme=darkhub&no-frame=true&margin-w=15)
 
----
 
-## 🎵 Now Playing on Spotify
-
-![Spotify Now Playing](https://novatorem.vercel.app/api/spotify)
-
----
-
-## 📂 My Projects
-
-<details>
-  <summary>📌 Click to expand</summary>
-
-- [Project A](https://github.com/Sho0226/project-a)  
-  Description of Project A.
-
-- [Project B](https://github.com/Sho0226/project-b)  
-  Description of Project B.
-
-</details>
-
----
-
-## 📈 Visitor Count
-
-![Visitor Count](https://komarev.com/ghpvc/?username=Sho0226&style=flat-square&color=blue)
