@@ -46,10 +46,8 @@
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Sho0226&theme=tokyo-night)
 
 ---
-<img
-  src="[https://github.com/Sho0226/Sho0226/blob/main/images/stat.svg](https://github.com/Sho0226/Sho0226/blob/main/images/stat.svg)"
-  alt="WakaTime Activity"
-/>
+![WakaTime Activity](https://github.com/Sho0226/Sho0226/blob/main/images/stat.svg)
+
 ---
 
 ## 🏆 GitHub Trophies
