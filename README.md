@@ -47,7 +47,7 @@
 
 ---
 <img
-  src="https://github.com/Sho0226/Sho0226/blob/main/images/stat.svg"
+  src="[https://github.com/Sho0226/Sho0226/blob/main/images/stat.svg](https://github.com/Sho0226/Sho0226/blob/main/images/stat.svg)"
   alt="WakaTime Activity"
 />
 ---
