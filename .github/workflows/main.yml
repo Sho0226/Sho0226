@@ -1,0 +1,24 @@
+name: WakaTime status update
+
+on:
+  schedule:
+    # 毎日UTC午前0時に実行
+    - cron: "0 0 * * *"
+
+jobs:
+  update-readme:
+    name: Update the WakaTime Stat
+    runs-on: ubuntu-latest
+    steps:
+      - uses: avinal/Profile-Readme-WakaTime@master
+        with:
+          # WakaTime APIキー（シークレットから取得）
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          # GitHubトークン（自動生成）
+          GITHUB_TOKEN: ${{ github.token }}
+          # デフォルトブランチ名（必要に応じて変更）
+          BRANCH: "main"
+          # コミットメッセージ
+          COMMIT_MSG: "Automated Coding Activity Update :alien:"
+          # データ取得範囲（例：過去7日間）
+          STATS_RANGE: "last_7_days"
