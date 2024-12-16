@@ -20,5 +20,5 @@ jobs:
           BRANCH: "main"
           # コミットメッセージ
           COMMIT_MSG: "Automated Coding Activity Update :alien:"
-          # データ取得範囲（例：過去7日間）
-          STATS_RANGE: "last_7_days"
+          # データ取得範囲
+          STATS_RANGE: "all_time"
