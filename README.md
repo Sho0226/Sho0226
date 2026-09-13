@@ -43,7 +43,7 @@
 
 ## 📊 GitHub Activity Graph
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Sho0226&theme=tokyo-night)
+![GitHub Activity Graph](https://github-activity-graph.vercel.app/graph?username=Sho0226&theme=tokyo-night)
 
 ---
 ![WakaTime Activity](https://github.com/Sho0226/Sho0226/blob/main/images/stat.svg)
@@ -52,6 +52,6 @@
 
 ## 🏆 GitHub Trophies
 
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Sho0226&theme=darkhub&no-frame=true&margin-w=15)
+![GitHub Trophies](https://github-trophies.vercel.app/?username=Sho0226&theme=darkhub&no-frame=true&margin-w=15)
 
 
