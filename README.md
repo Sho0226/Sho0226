@@ -5,8 +5,8 @@
 
 <p align="center">
   <img alt="Profile Details" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sho0226&theme=ocean_dark" />
-  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sho0226&layout=compact&count_private=true&show_icons=true&theme=ocean_dark" />
-  <img alt="GitHub Stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=Sho0226&count_private=true&show_icons=true&theme=ocean_dark" />
+  <img alt="Top Langs" height="150px" src="https://gh-readme-stats.vercel.app/api/top-langs/?username=Sho0226&layout=compact&count_private=true&show_icons=true&theme=ocean_dark" />
+  <img alt="GitHub Stats" height="150px" src="https://gh-readme-stats.vercel.app/api?username=Sho0226&count_private=true&show_icons=true&theme=ocean_dark" />
 </p>
 
 ---
@@ -44,9 +44,6 @@
 ## 📊 GitHub Activity Graph
 
 ![GitHub Activity Graph](https://github-activity-graph.vercel.app/graph?username=Sho0226&theme=tokyo-night)
-
----
-![WakaTime Activity](https://github.com/Sho0226/Sho0226/blob/main/images/stat.svg)
 
 ---
 
